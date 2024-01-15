@@ -11,4 +11,6 @@ https://github.com/ThomasWangWeiHong/Time-Series-Directional-Change-Analysis
 
 We them fit the DC Log Return and Normal Log Return into Hidden Markov Model to detect hidden state, then we can identify the normal and abnormal regimes.
 
+We also try impact of different thetas, you can find the result in the different theta folders.
+
 
