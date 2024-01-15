@@ -2,3 +2,4 @@ matplotlib
 numpy
 pandas
 hmmlearn.hmm
+scipy.stats 
